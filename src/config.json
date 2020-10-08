@@ -1,8 +1,8 @@
 {
   "journey": {
-    "departureStation": "PAD",
+    "departureStation": "HIT",
     "destinationStation": null,
-    "outOfHoursName": "London Paddington",
+    "outOfHoursName": "Hitchin",
     "stationAbbr": {
       "International": "Intl."
     }
@@ -11,6 +11,6 @@
   "transportApi": {
     "appId": "",
     "apiKey": "",
-    "operatingHours": "0-23"
+    "operatingHours": "8-23"
   }
 }
